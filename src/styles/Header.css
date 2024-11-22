@@ -1,0 +1,26 @@
+/* Cabeçalho */
+.header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .header nav a {
+    margin: 0 10px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .header nav a:hover {
+    color: #d4e2f0;
+  }
+  

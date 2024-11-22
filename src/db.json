@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Publicação 1",
+      "content": "Conteúdo da publicação 1"
+    },
+    {
+      "id": "2",
+      "title": "Publicação 2",
+      "content": "Conteúdo da publicação 2"
+    }
+  ],
+  "contacts": []
+}

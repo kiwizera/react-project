@@ -1,0 +1,25 @@
+/* Aplicação Geral */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #007bff;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
